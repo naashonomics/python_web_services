@@ -48,4 +48,10 @@ curl  http://127.0.0.1:5000/multi/5
    
    
 2> Flask Extention: pip install Flask-RESTFul
+ POST:
+   curl -i -X POST -H "Content-Type: application/json" -d "{""data1"":""data goes here"",""data2"":""data2 goes here""}" 
+   http://127.0.0.1:5000 
+   
+ Multiplication:
 
+curl  http://127.0.0.1:5000/multi/5
