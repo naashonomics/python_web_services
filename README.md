@@ -55,3 +55,8 @@ curl  http://127.0.0.1:5000/multi/5
  Multiplication:
 
 curl  http://127.0.0.1:5000/multi/5
+
+
+REST API from https://home.openweathermap.org to display temperature : 
+
+https://github.com/naashonomics/python_web_services/tree/master/weather_app 
